@@ -1,2 +1,2 @@
 --its just a testing--
-loadstring(game:HttpGet("https://github.com/Scriptisme/Testing-.git"))()
+loadstring(game:HttpGet("game.Players.LocalPlayer:Kick("Whoever moves first is Gay")"))()
